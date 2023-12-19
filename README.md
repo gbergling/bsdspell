@@ -17,3 +17,7 @@ BSD releases for licensing reasons. After Caldera relicensed early
 UNIX releases the 4.4BSD version was added to NetBSD and OpenBSD.
 
 On FreeBSD you can simple type make to compile both commands.
+
+When installing it on FreeBSD via ports or package, it's will be
+installed as bspell, since it would otherwise conflicts
+with the aspell-ispell port / pkg.
